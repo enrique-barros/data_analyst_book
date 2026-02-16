@@ -1,6 +1,8 @@
 # data_analyst_book
 
-Repositorio de apoyo al libro de análisis de datos.
+Repositorio de apoyo y contenido para los libros de análisis de datos.
+
+## SQL
 
 ## Ejercicios de nivel 1 de SQL
 
