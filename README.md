@@ -15,3 +15,9 @@ Accede a los ejercicios aquí:
 Accede a los ejercicios aquí:
 
 [Ejercicios Nivel 2 - SQL](https://github.com/enrique-barros/data_analyst_book/blob/main/sql/n2.md)
+
+## Ejercicios de nivel 3 de SQL
+
+Accede a los ejercicios aquí:
+
+[Ejercicios Nivel 3 - SQL](https://github.com/enrique-barros/data_analyst_book/blob/main/sql/n3.md)
