@@ -33,3 +33,9 @@ Accede a los ejercicios aquí:
 Accede a los ejercicios aquí:
 
 [Ejercicios Nivel 5 - SQL](https://github.com/enrique-barros/data_analyst_book/blob/main/sql/n5.md)
+
+## Ejercicios de nivel 6 de SQL
+
+Accede a los ejercicios aquí:
+
+[Ejercicios Nivel 6 - SQL](https://github.com/enrique-barros/data_analyst_book/blob/main/sql/n6.md)
