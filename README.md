@@ -4,6 +4,10 @@ Repositorio de apoyo y contenido para los libros de análisis de datos.
 
 ## Libro I: SQL para análisis de datos
 
+### Enlace del libro
+
+[Ver en Amazon](https://www.amazon.es/dp/B0GQGJ7JQG)
+
 ### Ejercicios para practicar
 
 Total de ejercicios: 115
@@ -25,8 +29,10 @@ Accede a los ejercicios aquí:
 ### Glosario
 [Acceder al glosario](https://github.com/enrique-barros/data_analyst_book/blob/main/sql/glosario.md)
 
-## Libro II: Programación para análisis de datos (En proceso de escritura)
+## Libro II: ¡Programa de una vez por todas!
 
-Archivos de código que aparecen en el libro:
+### Enlace del libro
 
-[Ver archivos](programming/code)
+[Ver en Amazon](https://www.amazon.es/dp/B0CK3SDR9X/)
+
+
