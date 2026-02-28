@@ -25,7 +25,7 @@ Accede a los ejercicios aquí:
 ### Glosario
 [Acceder al glosario](https://github.com/enrique-barros/data_analyst_book/blob/main/sql/glosario.md)
 
-## Libro II: Programación para análisis de datos
+## Libro II: Programación para análisis de datos (En proceso de escritura)
 
 Archivos de código que aparecen en el libro:
 
