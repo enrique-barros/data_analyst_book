@@ -22,6 +22,8 @@ Accede a los ejercicios aquí:
 
 [Ejercicios Nivel 6 - SQL](https://github.com/enrique-barros/data_analyst_book/blob/main/sql/n6.md)
 
+### Glosario
+[Acceder al glosario](https://github.com/enrique-barros/data_analyst_book/blob/main/sql/glosario.md)
 
 ## Libro II: Programación para análisis de datos
 
