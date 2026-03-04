@@ -41,5 +41,6 @@ Accede a los ejercicios aquí:
 
 ### Ejercicios para practicar
 
-### Cuadernnos interactivos
+### Cuadernos interactivos
 
+[Descargar todos los cuadernos](https://github.com/enrique-barros/data_analyst_book/blob/main/python/cuadernos.zip)
