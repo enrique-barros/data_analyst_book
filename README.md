@@ -29,7 +29,7 @@ Accede a los ejercicios aquí:
 ### Glosario
 [Acceder al glosario](https://github.com/enrique-barros/data_analyst_book/blob/main/sql/glosario.md)
 
-## Libro II: ¡Programa de una vez por todas!
+## Libro de interés: ¡Programa de una vez por todas!
 
 ### Enlace del libro
 
